@@ -1,0 +1,70 @@
+2023-07-07 15:33:02,312 : INFO : test_regrestrationform : First name is Phani
+2023-07-07 15:33:03,487 : INFO : test_regrestrationform : ï¿½
+Success! The Form has been submitted successfully!.
+2023-07-07 15:33:06,016 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-07 15:33:06,016 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-07 15:33:07,095 : INFO : test_regrestrationform : ï¿½
+Success! The Form has been submitted successfully!.
+2023-07-07 15:33:07,095 : INFO : test_regrestrationform : ï¿½
+Success! The Form has been submitted successfully!.
+2023-07-07 15:33:20,445 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="747bf5522f354079f828ff8e6b82ea9c", element="60ADB6528B53B3EAF6A1A622E5EDE4C0_element_121")>, <selenium.webdriver.remote.webelement.WebElement (session="747bf5522f354079f828ff8e6b82ea9c", element="60ADB6528B53B3EAF6A1A622E5EDE4C0_element_123")>, <selenium.webdriver.remote.webelement.WebElement (session="747bf5522f354079f828ff8e6b82ea9c", element="60ADB6528B53B3EAF6A1A622E5EDE4C0_element_125")>, <selenium.webdriver.remote.webelement.WebElement (session="747bf5522f354079f828ff8e6b82ea9c", element="60ADB6528B53B3EAF6A1A622E5EDE4C0_element_127")>]
+2023-07-07 15:33:32,965 : INFO : test_e2e : Text recived from application isï¿½
+Success! Thank you! Your order will be delivered in next few weeks :-).2023-07-07 16:02:32,923 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="ac4c7b19d61af5926d1b7c0ed24fb894", element="DCF1261CB618E3B6A4295BDEAD99A140_element_134")>, <selenium.webdriver.remote.webelement.WebElement (session="ac4c7b19d61af5926d1b7c0ed24fb894", element="DCF1261CB618E3B6A4295BDEAD99A140_element_149")>, <selenium.webdriver.remote.webelement.WebElement (session="ac4c7b19d61af5926d1b7c0ed24fb894", element="DCF1261CB618E3B6A4295BDEAD99A140_element_164")>, <selenium.webdriver.remote.webelement.WebElement (session="ac4c7b19d61af5926d1b7c0ed24fb894", element="DCF1261CB618E3B6A4295BDEAD99A140_element_179")>]
+2023-07-07 16:02:44,763 : INFO : test_e2e : Text recived from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-07 16:03:23,864 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="82124197e027a8235463cfe6460b7cb4", element="636C410BBFEBF29827FD43345D543A13_element_134")>, <selenium.webdriver.remote.webelement.WebElement (session="82124197e027a8235463cfe6460b7cb4", element="636C410BBFEBF29827FD43345D543A13_element_149")>, <selenium.webdriver.remote.webelement.WebElement (session="82124197e027a8235463cfe6460b7cb4", element="636C410BBFEBF29827FD43345D543A13_element_164")>, <selenium.webdriver.remote.webelement.WebElement (session="82124197e027a8235463cfe6460b7cb4", element="636C410BBFEBF29827FD43345D543A13_element_179")>]
+2023-07-07 16:03:35,675 : INFO : test_e2e : Text recived from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-07 17:02:39,471 : INFO : test_regrestrationform : First name is Phani
+2023-07-07 17:02:40,632 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-07 17:02:43,182 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-07 17:02:43,182 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-07 17:02:44,485 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-07 17:02:44,485 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-07 17:02:55,378 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="2c69a293483c09d239f7f5b7691002d5", element="BBA8C269F72A56EF720E7E180C163DC8_element_134")>, <selenium.webdriver.remote.webelement.WebElement (session="2c69a293483c09d239f7f5b7691002d5", element="BBA8C269F72A56EF720E7E180C163DC8_element_149")>, <selenium.webdriver.remote.webelement.WebElement (session="2c69a293483c09d239f7f5b7691002d5", element="BBA8C269F72A56EF720E7E180C163DC8_element_164")>, <selenium.webdriver.remote.webelement.WebElement (session="2c69a293483c09d239f7f5b7691002d5", element="BBA8C269F72A56EF720E7E180C163DC8_element_179")>]
+2023-07-07 17:03:07,586 : INFO : test_e2e : Text recived from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-07 17:04:49,999 : INFO : test_regrestrationform : First name is Phani
+2023-07-07 17:04:51,274 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-07 17:04:53,706 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-07 17:04:53,706 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-07 17:04:54,646 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-07 17:04:54,646 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-07 17:05:03,823 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="7aff02a69ff86f4ee9acb67a65a95b2f", element="A8DECCB48CDB8A51C77B33527B72DFBB_element_130")>, <selenium.webdriver.remote.webelement.WebElement (session="7aff02a69ff86f4ee9acb67a65a95b2f", element="A8DECCB48CDB8A51C77B33527B72DFBB_element_145")>, <selenium.webdriver.remote.webelement.WebElement (session="7aff02a69ff86f4ee9acb67a65a95b2f", element="A8DECCB48CDB8A51C77B33527B72DFBB_element_160")>, <selenium.webdriver.remote.webelement.WebElement (session="7aff02a69ff86f4ee9acb67a65a95b2f", element="A8DECCB48CDB8A51C77B33527B72DFBB_element_175")>]
+2023-07-07 17:05:15,865 : INFO : test_e2e : Text recived from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-11 15:20:41,667 : INFO : test_regrestrationform : First name is Phani
+2023-07-11 15:20:43,055 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-11 15:20:45,737 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-11 15:20:45,737 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-11 15:20:47,145 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-11 15:20:47,145 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-11 15:21:01,501 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="5c38446619c9eb05975da583aaba3c0b", element="77D947E549FAE16E049765EFCD01A113_element_120")>, <selenium.webdriver.remote.webelement.WebElement (session="5c38446619c9eb05975da583aaba3c0b", element="77D947E549FAE16E049765EFCD01A113_element_122")>, <selenium.webdriver.remote.webelement.WebElement (session="5c38446619c9eb05975da583aaba3c0b", element="77D947E549FAE16E049765EFCD01A113_element_124")>, <selenium.webdriver.remote.webelement.WebElement (session="5c38446619c9eb05975da583aaba3c0b", element="77D947E549FAE16E049765EFCD01A113_element_126")>]
+2023-07-11 15:21:14,131 : INFO : test_e2e : Text recived from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-11 15:28:58,748 : INFO : test_regrestrationform : First name is Phani
+2023-07-11 15:28:59,548 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-11 15:29:02,023 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-11 15:29:02,023 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-11 15:29:02,773 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-11 15:29:02,773 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-11 15:29:17,754 : INFO : test_e2e : [<selenium.webdriver.remote.webelement.WebElement (session="44c750ea6c84e58a1bdfae3393c365e7", element="A60A600676EA5918D78BC9CB960CE4F8_element_130")>, <selenium.webdriver.remote.webelement.WebElement (session="44c750ea6c84e58a1bdfae3393c365e7", element="A60A600676EA5918D78BC9CB960CE4F8_element_145")>, <selenium.webdriver.remote.webelement.WebElement (session="44c750ea6c84e58a1bdfae3393c365e7", element="A60A600676EA5918D78BC9CB960CE4F8_element_160")>, <selenium.webdriver.remote.webelement.WebElement (session="44c750ea6c84e58a1bdfae3393c365e7", element="A60A600676EA5918D78BC9CB960CE4F8_element_175")>]
+2023-07-11 15:29:29,432 : INFO : test_e2e : Text recived from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-11 15:43:20,937 : INFO : test_regrestrationform : First name is Phani
+2023-07-11 15:43:21,722 : INFO : test_regrestrationform : ×
+Success! The Form has been submitted successfully!.
+2023-07-11 15:43:23,920 : INFO : test_regrestrationform : First name is Keerthi
+2023-07-11 15:43:23,920 : INFO : test_regrestrationform : First name is Keerthi
